@@ -6,7 +6,7 @@
 
 Homeworks
 
-I will collect your home assignment solutions through email.
+I will collect your home assignment solutions through your private GitHub repository.
 
 #	File	Deadline
 
