@@ -13,3 +13,4 @@ I will collect your home assignment solutions through your private GitHub reposi
 | 01 | [00-Homeworks/[HW1_AQL]-YOURNAME.ipynb](00-Homeworks/[HW1_AQL]-YOURNAME.ipynb)| February 13, 11:59 pm |
 | -- | ------------------------| ------- |
 | 02 | [00-Homeworks/[HW2_AQL]-YOURNAME.ipynb](00-Homeworks/[HW2_AQL]-YOURNAME.ipynb)  | March 9, 11:59 pm |
+| 03 | [00-Homeworks/[HW3_AQL]-YOURNAME.ipynb](00-Homeworks/[HW3_AQL]-YOURNAME.ipynb)  | March 24, 11:59 pm |
